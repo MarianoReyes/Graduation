@@ -16,7 +16,7 @@ const Invitation: React.FC = () => {
             
             <div className="flex items-center justify-center space-x-2 text-[#14213D] mb-3">
               <CalendarClock className="text-[#D4AF37]" size={24} />
-              <p className="text-lg font-medium">1:00 PM</p>
+              <p className="text-lg font-medium">Sábado 14 de Junio - 1:00 PM</p>
             </div>
             
             <div className="flex items-center justify-center space-x-2 text-[#14213D] mb-6">

@@ -9,8 +9,8 @@ const Footer: React.FC = () => {
           Con cariño, José Mariano Reyes 
           <Heart size={16} className="text-[#D4AF37] ml-2 animate-pulse" fill="#D4AF37" />
         </p>
-        <p className="mt-4 text-xs text-gray-400">
-          Por favor confirma tu asistencia antes del 1 de junio
+        <p className="mt-4 text-md text-white">
+          <b>Por favor confirma tu asistencia antes del 1 de junio</b>
         </p>
       </div>
     </footer>
